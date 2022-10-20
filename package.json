@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/letennor/vuepress-github.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
